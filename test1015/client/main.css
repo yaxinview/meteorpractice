@@ -1,0 +1,9 @@
+/* CSS declarations go here */
+#txtAdd {
+    width: 40rem;
+}
+
+.snippet {
+    font-size: 30px;
+    color: green;
+}
